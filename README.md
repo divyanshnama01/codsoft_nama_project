@@ -1,2 +1,2 @@
-# codsoft_nama_project
-landing page
+# CODSOFT_AUGUST
+Its a landing page for clear understanding the detailed information at the starting page
